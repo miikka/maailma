@@ -1,3 +1,5 @@
+# Release notes
+
 ## Unreleased
 
 - Removed `maailma.encrypt` namespace
